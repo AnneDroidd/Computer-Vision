@@ -9,10 +9,14 @@ IMAGE 1: Single Leaf
 
 ![image](https://user-images.githubusercontent.com/41636731/114755056-dcbce200-9d76-11eb-8551-fda0b0213b40.png)
 
-Output:
+##### Output:
+
 ![image](https://user-images.githubusercontent.com/41636731/114755229-0d048080-9d77-11eb-831c-5961ddb81642.png)
+
 ![image](https://user-images.githubusercontent.com/41636731/114755248-11309e00-9d77-11eb-9c68-dc0f1ec20bfd.png)
+
 ![image](https://user-images.githubusercontent.com/41636731/114755262-155cbb80-9d77-11eb-9903-d6a33a4c940a.png)
+
 ![image](https://user-images.githubusercontent.com/41636731/114755284-1857ac00-9d77-11eb-82dc-aef946915328.png)
 
 #### OBSERVATION:
