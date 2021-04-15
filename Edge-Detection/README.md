@@ -11,13 +11,7 @@ IMAGE 1: Single Leaf
 
 ##### Output:
 
-![image](https://user-images.githubusercontent.com/41636731/114755229-0d048080-9d77-11eb-831c-5961ddb81642.png)
+![image](https://user-images.githubusercontent.com/41636731/114755229-0d048080-9d77-11eb-831c-5961ddb81642.png)              ![image](https://user-images.githubusercontent.com/41636731/114755248-11309e00-9d77-11eb-9c68-dc0f1ec20bfd.png)
 
-![image](https://user-images.githubusercontent.com/41636731/114755248-11309e00-9d77-11eb-9c68-dc0f1ec20bfd.png)
+![image](https://user-images.githubusercontent.com/41636731/114755262-155cbb80-9d77-11eb-9903-d6a33a4c940a.png)               ![image](https://user-images.githubusercontent.com/41636731/114755284-1857ac00-9d77-11eb-82dc-aef946915328.png)
 
-![image](https://user-images.githubusercontent.com/41636731/114755262-155cbb80-9d77-11eb-9903-d6a33a4c940a.png)
-
-![image](https://user-images.githubusercontent.com/41636731/114755284-1857ac00-9d77-11eb-82dc-aef946915328.png)
-
-#### OBSERVATION:
-We can observe that Canny Edge Detector detects maximum edges, including the leaf’s minor veins and leaves in the background. Sobel and Prewitt give very similar results – they detect the leaf’s outline as well as the major veins of the leaf. In the first glance we feel Roberts is giving same result as Sobel and Prewitt, but on zooming in we can observe that Roberts is much better at keeping continuity in the edges detected. The major veins and the leaf edge at the bottom left corner are continuous in Roberts but not in Sobel’s or Prewitt’s cases.
